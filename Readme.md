@@ -32,6 +32,14 @@ Or, to set the nightly compiler as the default for your system, run this command
 
 `rustup default nightly`
 
+To run the benchmark, make sure you have `zsh` and `rg` installed.
+
+Install them on Debian-based systems with the following command:
+```bash
+sudo apt install zsh ripgrep
+```
+
+
 ## Usage
 To run the tests, run this command:
 
